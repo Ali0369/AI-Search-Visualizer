@@ -11,7 +11,7 @@ The **AI Search Visualizer** provides an interactive way to understand and compa
 ## Preview
 
 <p align="center">
-  <img src="./assets/cover.png" alt="AI Search Visualizer" width="100%">
+  <img src="./AI-Visualizer-ProjectCover.png" alt="AI Search Visualizer" width="100%">
 </p>
 
 <p align="center">
