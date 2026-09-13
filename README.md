@@ -12,9 +12,9 @@ It includes both **uninformed** and **informed (heuristic)** search strategies, 
 
 ## 🚀 Live Demo
 
-**[▶ Open AI Search Visualizer](YOUR_GITHUB_PAGES_LINK)**
+**[▶ Open AI Search Visualizer](https://ali0369.github.io/AI-Search-Visualizer)**
 
-**[✦ Open Claude Artifact](YOUR_CLAUDE_ARTIFACT_LINK)**
+**[✦ Open Claude Artifact](https://claude.ai/public/artifacts/a0143c50-19b0-47dd-b001-92604fd042ad)**
 
 > The live demo is hosted as a static HTML application and requires no installation.
 
